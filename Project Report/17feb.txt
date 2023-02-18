@@ -1,0 +1,3 @@
+So today i learned about promises and asynchronous functions ( async and await keyword )
+This is from Udemy course it was of 1hr 45 mins it was initially har but i got it  eventually 
+That's it. :|
