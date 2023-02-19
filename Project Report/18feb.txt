@@ -1,0 +1,20 @@
+So today i learned about 
+- AJAX and AJAJ,
+- What is Api's and Json (most of it i already knew)
+- tools like postman and hopp scotch
+- URLs and Http HEADERS and VERBS (get, post,delete, etc)
+- what is status code
+    {
+        2XX => Everything Good
+        3XX => Redirecting to somewhere
+        4XX => User has done something wrong
+        5XX => There is a problem in Server 
+    }
+- Way to interact with the APIs
+    - XHR => old and irrelevant method
+    - Fetch => fetch function in js return a promises 
+    - Axios => A third party library has to be imported and it uses             
+               Axios.get(1,2)function uses fecth in backend but it return a    
+               json object
+
+- That's it :| somewhat happy like 6/10 
