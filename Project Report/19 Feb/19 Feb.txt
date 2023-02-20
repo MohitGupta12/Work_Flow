@@ -1,0 +1,14 @@
+So today i learned about 
+- Axios practice 
+- OOps in javaScript
+    - What are  Prototypes ( predecessor of Class )
+    - What are Factory functions ( predecessor of constructor function )
+    - Constructor function 
+    - Class
+    - Extend(class inheritance) and super(constructor inheritance) keywords 
+- Backend Terminal  command it was all unix commands (ls,cd,touch,pwd,mkdir,rm,rm -rf)
+- What is Node
+- Node Repl(read execute p---- loop) 
+- How to run backend file via node 
+- What are process and argV in node 
+- how to manage file system in backend (basic commands)
