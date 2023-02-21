@@ -1,5 +1,10 @@
+So today i have done 
+- Axios practice
+
+--------------------------------------------------------------------------------
+
 So today i learned about 
-- Axios practice 
+- Axios 
 - OOps in javaScript
     - What are  Prototypes ( predecessor of Class )
     - What are Factory functions ( predecessor of constructor function )
