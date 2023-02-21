@@ -1,0 +1,18 @@
+So today i have done 
+- Created first Server using express
+- Practice some get requests and responded with something
+- Setup Linux in Vs code in laptop
+
+--------------------------------------------------------------------------------
+
+So today i learned about 
+- Express (node module)
+    - response and request in Server (using  res and req form express().get())
+- What are routes and some basic routing of url in server
+    - Path parameters
+    - Query string 
+- Nodemon
+
+--------------------------------------------------------------------------------
+
+Remark: 45/100 

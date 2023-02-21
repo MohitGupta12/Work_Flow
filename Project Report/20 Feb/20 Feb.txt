@@ -1,0 +1,16 @@
+So today i have done 
+- installed npm
+- Lang guesser (not working due to update in a dependency)
+
+--------------------------------------------------------------------------------
+
+So today i learned about 
+- npm
+- how to add node modules (require and import)
+- how to use them 
+- installing dependency and why we don't post them (it will be downloaded on the go )
+- used some node module like franc and langs   
+
+--------------------------------------------------------------------------------
+
+Remark: 55/100 
